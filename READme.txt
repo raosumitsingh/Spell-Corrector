@@ -1,0 +1,1 @@
+A spell corrector script
